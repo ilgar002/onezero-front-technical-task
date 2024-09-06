@@ -1,0 +1,2006 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Main Menu",
+    "categories": [
+      {
+        "id": 1,
+        "createDate": "2024-08-07T13:22:47.821Z",
+        "lastUpdateDate": "2024-08-07T17:31:33.193Z",
+        "isPublished": true,
+        "isArchived": false,
+        "placeInTheList": 4,
+        "schedule": {
+          "from": null,
+          "to": null,
+          "isActive": null,
+          "weekdays": null
+        },
+        "name": [
+          {
+            "value": "Brew Bar",
+            "languageCode": "TR"
+          }
+        ],
+        "menuItems": [
+          {
+            "id": 70,
+            "createDate": "2024-08-07T13:24:33.949Z",
+            "lastUpdateDate": "2024-09-06T10:27:18.964Z",
+            "name": [
+              {
+                "value": "Cold Brew",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022666627-948381",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022666627-948381"
+            ],
+            "priceSell": 8.2,
+            "priceCost": null,
+            "placeInTheList": 5,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 25,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 69,
+            "createDate": "2024-08-07T13:24:21.191Z",
+            "lastUpdateDate": "2024-09-06T10:27:00.725Z",
+            "name": [
+              {
+                "value": "Syphone",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022647463-943631",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022647463-943631"
+            ],
+            "priceSell": 7.9,
+            "priceCost": null,
+            "placeInTheList": 4,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 3,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-05T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 68,
+            "createDate": "2024-08-07T13:24:02.641Z",
+            "lastUpdateDate": "2024-09-06T10:26:45.395Z",
+            "name": [
+              {
+                "value": "Aeropress",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022634884-692213",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022634884-692213"
+            ],
+            "priceSell": 7.5,
+            "priceCost": null,
+            "placeInTheList": 3,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 20,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 67,
+            "createDate": "2024-08-07T13:23:51.158Z",
+            "lastUpdateDate": "2024-09-06T10:26:31.737Z",
+            "name": [
+              {
+                "value": "V 60",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022623641-888709",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022623641-888709"
+            ],
+            "priceSell": 7,
+            "priceCost": null,
+            "placeInTheList": 2,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 2,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 66,
+            "createDate": "2024-08-07T13:23:39.936Z",
+            "lastUpdateDate": "2024-09-06T10:26:20.311Z",
+            "name": [
+              {
+                "value": "Chemex",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022615433-576356",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022615433-576356"
+            ],
+            "priceSell": 7.2,
+            "priceCost": null,
+            "placeInTheList": 1,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 2,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "createDate": "2024-08-07T13:19:03.142Z",
+        "lastUpdateDate": "2024-08-07T17:31:33.193Z",
+        "isPublished": true,
+        "isArchived": false,
+        "placeInTheList": 1,
+        "schedule": {
+          "from": null,
+          "to": null,
+          "isActive": null,
+          "weekdays": null
+        },
+        "name": [
+          {
+            "value": "Espresso Bar",
+            "languageCode": "EN"
+          }
+        ],
+        "menuItems": [
+          {
+            "id": 75,
+            "createDate": "2024-08-08T16:15:09.645Z",
+            "lastUpdateDate": "2024-08-08T16:15:30.810Z",
+            "name": [
+              {
+                "value": "1",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "",
+            "otherImagesSrc": [],
+            "priceSell": 1,
+            "priceCost": null,
+            "placeInTheList": 7,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": true,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 65,
+            "createDate": "2024-08-07T13:22:05.122Z",
+            "lastUpdateDate": "2024-09-06T10:22:04.278Z",
+            "name": [
+              {
+                "value": "Latte",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022518528-987029",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022518528-987029"
+            ],
+            "priceSell": 7,
+            "priceCost": null,
+            "placeInTheList": 6,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 2,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-23T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 64,
+            "createDate": "2024-08-07T13:21:54.126Z",
+            "lastUpdateDate": "2024-08-07T09:21:54.126Z",
+            "name": [
+              {
+                "value": "Americano",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022507724-882342",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022507724-882342"
+            ],
+            "priceSell": 5.5,
+            "priceCost": null,
+            "placeInTheList": 5,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 63,
+            "createDate": "2024-08-07T13:21:40.019Z",
+            "lastUpdateDate": "2024-09-06T10:19:33.057Z",
+            "name": [
+              {
+                "value": "Cortado",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022490754-967151",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022490754-967151"
+            ],
+            "priceSell": 6.3,
+            "priceCost": null,
+            "placeInTheList": 4,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 2,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-27T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 62,
+            "createDate": "2024-08-07T13:21:25.302Z",
+            "lastUpdateDate": "2024-08-07T09:21:25.302Z",
+            "name": [
+              {
+                "value": "Mocha",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022476476-249614",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022476476-249614"
+            ],
+            "priceSell": 6.6,
+            "priceCost": null,
+            "placeInTheList": 3,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 61,
+            "createDate": "2024-08-07T13:21:12.295Z",
+            "lastUpdateDate": "2024-09-06T10:18:56.702Z",
+            "name": [
+              {
+                "value": "Cappuccino",
+                "languageCode": "TR"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "TR"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022464535-197160",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022464535-197160"
+            ],
+            "priceSell": 7,
+            "priceCost": null,
+            "placeInTheList": 2,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 2,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-24T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 60,
+            "createDate": "2024-08-07T13:20:14.371Z",
+            "lastUpdateDate": "2024-09-06T10:15:51.210Z",
+            "name": [
+              {
+                "value": "Espresso",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723022403334-790625",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723022403334-790625"
+            ],
+            "priceSell": 5,
+            "priceCost": null,
+            "placeInTheList": 1,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 10,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-06T10:15:36.371Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "createDate": "2024-08-07T13:11:13.629Z",
+        "lastUpdateDate": "2024-08-07T17:31:33.193Z",
+        "isPublished": true,
+        "isArchived": true,
+        "placeInTheList": 3,
+        "schedule": {
+          "from": null,
+          "to": null,
+          "isActive": null,
+          "weekdays": null
+        },
+        "name": [
+          {
+            "value": "Cold Drinks",
+            "languageCode": "EN"
+          }
+        ],
+        "menuItems": [
+          {
+            "id": 115,
+            "createDate": "2024-08-26T15:33:53.821Z",
+            "lastUpdateDate": "2024-09-06T10:25:49.286Z",
+            "name": [
+              {
+                "value": "İce Tea",
+                "languageCode": "AZ"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "AZ"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1724672031761-452022",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1724672031761-452022"
+            ],
+            "priceSell": 7.6,
+            "priceCost": null,
+            "placeInTheList": 7,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 4,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 114,
+            "createDate": "2024-08-26T15:31:49.673Z",
+            "lastUpdateDate": "2024-09-06T10:25:02.352Z",
+            "name": [
+              {
+                "value": "Milkshake",
+                "languageCode": "AZ"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "AZ"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1724671907164-794513",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1724671907164-794513"
+            ],
+            "priceSell": 8.7,
+            "priceCost": null,
+            "placeInTheList": 1,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 15,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 54,
+            "createDate": "2024-08-07T13:12:35.483Z",
+            "lastUpdateDate": "2024-09-06T10:25:14.377Z",
+            "name": [
+              {
+                "value": "Lotus milkshake",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021948264-645523",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021948264-645523"
+            ],
+            "priceSell": 9,
+            "priceCost": null,
+            "placeInTheList": 3,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 1,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 53,
+            "createDate": "2024-08-07T13:12:22.331Z",
+            "lastUpdateDate": "2024-08-26T15:32:51.989Z",
+            "name": [
+              {
+                "value": "Honey long black",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021934780-189324",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021934780-189324"
+            ],
+            "priceSell": 8,
+            "priceCost": null,
+            "placeInTheList": 2,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 52,
+            "createDate": "2024-08-07T13:12:07.961Z",
+            "lastUpdateDate": "2024-08-07T09:12:07.961Z",
+            "name": [
+              {
+                "value": "Feijoa beer lemonade",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021918775-673373",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021918775-673373"
+            ],
+            "priceSell": 8.5,
+            "priceCost": null,
+            "placeInTheList": 4,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 51,
+            "createDate": "2024-08-07T13:11:54.935Z",
+            "lastUpdateDate": "2024-09-06T10:25:35.884Z",
+            "name": [
+              {
+                "value": "Grapefruit aloe lemonade",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021906991-22131",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021906991-22131"
+            ],
+            "priceSell": 8.5,
+            "priceCost": null,
+            "placeInTheList": 5,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 4,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 50,
+            "createDate": "2024-08-07T13:11:40.803Z",
+            "lastUpdateDate": "2024-09-06T10:26:01.268Z",
+            "name": [
+              {
+                "value": "Lemonade",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021891862-260350",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021891862-260350"
+            ],
+            "priceSell": 8.5,
+            "priceCost": null,
+            "placeInTheList": 8,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 15,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 49,
+            "createDate": "2024-08-07T13:11:28.773Z",
+            "lastUpdateDate": "2024-08-26T15:32:51.989Z",
+            "name": [
+              {
+                "value": "Mojito classic",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021879769-149189",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021879769-149189"
+            ],
+            "priceSell": 8.5,
+            "priceCost": null,
+            "placeInTheList": 6,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "createDate": "2024-08-07T13:09:08.395Z",
+        "lastUpdateDate": "2024-08-07T17:31:33.193Z",
+        "isPublished": true,
+        "isArchived": false,
+        "placeInTheList": 2,
+        "schedule": {
+          "from": null,
+          "to": null,
+          "isActive": null,
+          "weekdays": null
+        },
+        "name": [
+          {
+            "value": "Ice Coffee",
+            "languageCode": "EN"
+          }
+        ],
+        "menuItems": [
+          {
+            "id": 113,
+            "createDate": "2024-08-26T15:29:38.538Z",
+            "lastUpdateDate": "2024-09-06T10:24:45.329Z",
+            "name": [
+              {
+                "value": "Frappe",
+                "languageCode": "AZ"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "AZ"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1724671782972-875367",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1724671782972-875367"
+            ],
+            "priceSell": 8.3,
+            "priceCost": null,
+            "placeInTheList": 5,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": true,
+            "rate": {
+              "isFixed": false,
+              "amount": 25,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 48,
+            "createDate": "2024-08-07T13:10:13.000Z",
+            "lastUpdateDate": "2024-09-06T10:24:32.785Z",
+            "name": [
+              {
+                "value": "İce Mocha",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021804713-42676",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021804713-42676"
+            ],
+            "priceSell": 7.8,
+            "priceCost": null,
+            "placeInTheList": 4,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": true,
+              "amount": 3,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-09-29T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 47,
+            "createDate": "2024-08-07T13:09:59.091Z",
+            "lastUpdateDate": "2024-08-26T15:29:15.749Z",
+            "name": [
+              {
+                "value": "İce Americano",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021789268-337509",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021789268-337509"
+            ],
+            "priceSell": 6,
+            "priceCost": null,
+            "placeInTheList": 2,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": false,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 46,
+            "createDate": "2024-08-07T13:09:40.732Z",
+            "lastUpdateDate": "2024-09-06T10:24:17.685Z",
+            "name": [
+              {
+                "value": "İce Raff",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021771391-209438",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021771391-209438"
+            ],
+            "priceSell": 8.3,
+            "priceCost": null,
+            "placeInTheList": 1,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": true,
+            "rate": {
+              "isFixed": false,
+              "amount": 1,
+              "isEnabled": true,
+              "schedule": {
+                "from": "2024-09-05T20:00:00.000Z",
+                "to": "2024-10-02T20:00:00.000Z",
+                "isActive": true,
+                "weekdays": {
+                  "monday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "tuesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "wednesday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "thursday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "friday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": false
+                  },
+                  "saturday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  },
+                  "sunday": {
+                    "from": "10:00",
+                    "to": "23:00",
+                    "isWorking": true
+                  }
+                }
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          },
+          {
+            "id": 45,
+            "createDate": "2024-08-07T13:09:26.722Z",
+            "lastUpdateDate": "2024-08-26T15:29:15.749Z",
+            "name": [
+              {
+                "value": "İce Latte",
+                "languageCode": "EN"
+              }
+            ],
+            "description": [
+              {
+                "value": "",
+                "languageCode": "EN"
+              }
+            ],
+            "coverImageSrc": "develop/MERCHANT/3/MENU/mItem_1723021758189-496162",
+            "otherImagesSrc": [
+              "develop/MERCHANT/3/MENU/mItem_1723021758189-496162"
+            ],
+            "priceSell": 7.3,
+            "priceCost": null,
+            "placeInTheList": 3,
+            "unit": {
+              "id": 4,
+              "name": "g"
+            },
+            "amount": 0,
+            "calories": 0,
+            "timeToMake": 0,
+            "isArchived": true,
+            "rate": {
+              "isFixed": false,
+              "amount": 0,
+              "isEnabled": false,
+              "schedule": {
+                "from": null,
+                "to": null,
+                "isActive": null,
+                "weekdays": null
+              }
+            },
+            "isPublished": true,
+            "schedule": {
+              "from": null,
+              "to": null,
+              "isActive": null,
+              "weekdays": null
+            },
+            "tags": [],
+            "modifications": []
+          }
+        ]
+      }
+    ]
+  }
+}
